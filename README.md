@@ -1,17 +1,11 @@
 **Kelompok Starmix** <br>
 Nama Anggota:
-1. Nur Annisa Balqis (221401003) <br>
-   Jobdesk: Mengerjakan Halaman Utama
-2. Winda Rinjani Adhana (221401009) <br>
-   Jobdesk: Mengerjakan Halaman History (Riwayat Pembelian)
-3. Aqila Eling Febrianti (221401012) <br>
-   Jobdesk: Mengerjakan Halaman Register
-4. Devia Anjani (221401019) <br>
-   Jobdesk: Mengerjakan Halaman Profile
-5. Jonathan Ignasius Sitanggang (221401035) <br>
-   Jobdesk: Mengerjakan Halaman Login
-
-**Link Youtube** : https://youtu.be/jW0Gyx8xCE8?si=1tCR-RrIIHez7sLs
+1. Dimas Arbi Ardian (20220040165) <br>
+   Jobdesk: Mengerjakan Java
+2. Ari Perdian (2022004) <br>
+   Jobdesk: Mengerjakan Java
+3. Piky Paelani (2022004) <br>
+   Jobdesk: Mengerjakan Proposal
 
 Kami menggunakan Bahasa Pemrograman Java. <br>
 **Tools:** Netbeans, Mysql (PHPMyAdmin), Xampp, Github <br>
